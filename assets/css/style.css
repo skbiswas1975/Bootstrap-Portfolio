@@ -10,6 +10,12 @@ html, body {
   color:#aaaaaa;
   margin: 0;
   background-color:#efefef;
+  padding: 0;
+}
+
+#wrapper {
+  min-height: 100%;
+  position: relative;
 }
 
 .container {
